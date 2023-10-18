@@ -1,0 +1,2 @@
+            DgvDatos.Columns.Clear();
+            DgvDatos.Columns.Add("ColumnaPais", "Pais");
